@@ -1,4 +1,4 @@
-package com.blogspot.jesfre.webclicker;
+package com.blogspot.jesfre.giveawayclicker;
 
 import java.io.File;
 import java.util.List;
