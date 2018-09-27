@@ -1,2 +1,2 @@
-# giveaway-clicker
-A worker to click on Giveaways.
+# Giveaway Clicker
+A worker to navigate through and click on Giveaways.
