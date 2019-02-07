@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 /**
- * @author <a href="mailto:jruizaquino@deloitte.com">Jorge Ruiz Aquino</a>
+ * @author <a href="mailto:jorge.ruiz.aquino@gmail.com">Jorge Ruiz Aquino</a>
  * Sep 20, 2018
  */
 public class Watcher {
